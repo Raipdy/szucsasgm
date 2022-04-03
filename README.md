@@ -7,3 +7,5 @@
 3.根据命名应该可以看懂代码的操作
 
 4.multiple SOM的思路是随机切分k个区间，再在各个区间进行单SOM，但不能保证路径最短（仅为了画图好看）。
+
+5.SOM代码主要参考了https://github.com/DiegoVicen/som-tsp/
