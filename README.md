@@ -1,2 +1,2 @@
-# szucsasgm
-Sharing code and report of assignment
+# 深大计算智能代码分享
+
